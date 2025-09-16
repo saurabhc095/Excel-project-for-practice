@@ -1,0 +1,154 @@
+HR Attrition Report – Excel Project
+
+📌 Project Overview
+
+This project focuses on analyzing employee attrition trends using Excel.
+The goal is to identify key factors influencing attrition (employees leaving the organization) and present insights in a professional dashboard.
+
+
+
+🛠️ Tools & Skills Used
+
+Excel
+
+
+
+Data Cleaning
+
+Pivot Tables
+
+KPI Metrics
+
+Charts & Visualizations
+
+Slicers & Filters
+
+Data Analytics Skills
+
+
+
+Exploratory Data Analysis (EDA)
+
+Trend Analysis
+
+HR Insights
+
+
+
+📂 Dataset Description
+
+The dataset contains information about employees, including:
+
+Employee ID
+
+Age
+
+Gender
+
+Department
+
+Job Role
+
+Education
+
+Salary
+
+Years at Company
+
+Attrition (Yes/No)
+
+
+
+🔎 Steps Performed
+
+1. Data Cleaning & Preparation
+
+Removed duplicates and handled missing values.
+
+Standardized categorical values (e.g., Department, Education).
+
+Created calculated fields:
+
+
+
+Attrition Flag (1 = Yes, 0 = No)
+
+Years at Company Group (0–2, 3–5, 6–10, 10+).
+
+2. Data Analysis using Pivot Tables
+
+Attrition by Department
+
+Attrition by Gender
+
+Attrition by Age Group
+
+Attrition by Job Role
+
+Attrition by Years at Company
+
+3. Dashboard Creation
+
+KPI Cards:
+
+
+
+Total Employees
+
+Employees Left
+
+Attrition Rate (%)
+
+Charts:
+
+
+
+Bar chart → Attrition by Department
+
+Pie chart → Attrition by Gender
+
+Column chart → Attrition by Age Group
+
+Line chart → Attrition by Years at Company
+
+Slicers for interactive filtering (Department, Gender, Education).
+
+
+
+📈 Key Insights
+
+[Write your findings here, e.g.,]
+
+
+
+Sales Department has the highest attrition.
+
+Employees aged 25–35 show the maximum attrition rate.
+
+Male vs Female attrition is slightly imbalanced.
+
+Most employees leave within 0–2 years of joining.
+
+
+
+📸 Dashboard Preview
+
+
+
+📁 Project Files
+
+HR_Attrition_Report.xlsx → Final project file
+
+dashboard_preview.png → Dashboard screenshot
+
+README.md → Project documentation
+
+
+
+🚀 How to Use
+
+1. Download the Excel file.
+
+2. Open Dashboard Sheet for interactive analysis.
+
+3. Use slicers to filter by Department, Gender, and Education.
